@@ -61,7 +61,7 @@ export default function Hero() {
           <div className="relative w-full h-full rounded-[1.5rem] rounded-tr-[5.5rem] rounded-bl-[5.5rem] overflow-hidden border border-white/10">
             <div className="absolute inset-0 bg-gradient-to-tr from-accent/40 via-transparent to-primary/30 mix-blend-overlay z-10" />
             <img 
-              src="/profile2.jpg" 
+              src="406364f8-b08c-4da9-b88a-acb647a1707f.jfif" 
               alt="Raj Pandya" 
               className="w-full h-full object-contain object-center bg-black/5"
             />
